@@ -1,0 +1,6 @@
+pandas==2.2.0
+scanpy==1.9.3
+torch==2.2.0
+numpy==1.26.4
+scikit-learn==1.4.0
+tensorflow==2.15.0
